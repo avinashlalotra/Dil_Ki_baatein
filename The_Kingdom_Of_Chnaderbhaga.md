@@ -11,6 +11,8 @@ The surroundings were breathtakingly beautiful — birds singing their morning s
 the sweet melody of the cuckoo drifting through the air.
 ```
 
+<img src="Gemini_Generated_Image_hh7vs7hh7vs7hh7v.png">
+
 
 ```
 A vast blue sky, golden sunlight, towering mountains,
