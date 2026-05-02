@@ -1,4 +1,4 @@
-# The Kingdom of Chanderbhaga
+# The Kingdom of Chanderbhaga - Three Crimes
 
 ```
 Once upon a time, in the northern lands of Bharat, on the banks of the river Chanderbhaga,
