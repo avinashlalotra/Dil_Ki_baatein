@@ -10,7 +10,7 @@ so high and so fortified that every enemy attack crumbled to failure before it c
 The surroundings were breathtakingly beautiful — birds singing their morning songs,
 the sweet melody of the cuckoo drifting through the air.
 ```
-
+<img src="edited-photo (1).png">
 
 ```
 A vast blue sky, golden sunlight, towering mountains,
@@ -41,7 +41,7 @@ declared the complainant to be nothing short of a Pagal.
 
 `King`: "Young woman, what exactly have you done?"
 
-`Woman`: "Forgive me, Your Majesty. I have done nothing of the sort. This man is completely out of his mind."
+`Woman`: "Forgive me, Your Majesty. I have done nothing of the sort. This man is completely Pagal."
 
 `King`: (growing impatient) "Complainant! Speak clearly — what exactly is this woman's crime?"
 
@@ -58,3 +58,4 @@ Because of all this, Your Majesty, I find it nearly impossible to hold a normal 
 ```
 
 (A deep silence fell over the royal court. Even the king began to wonder if the complainant had indeed lost his mind.)
+(The woman seems to be blushing but hides it from the royal court...)
