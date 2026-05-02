@@ -11,8 +11,6 @@ The surroundings were breathtakingly beautiful — birds singing their morning s
 the sweet melody of the cuckoo drifting through the air.
 ```
 
-<img src="Gemini_Generated_Image_hh7vs7hh7vs7hh7v.png">
-
 
 ```
 A vast blue sky, golden sunlight, towering mountains,
@@ -48,6 +46,7 @@ declared the complainant to be nothing short of a Pagal.
 `King`: (growing impatient) "Complainant! Speak clearly — what exactly is this woman's crime?"
 
 `Complainant`: "Your Majesty... the first crime —
+<img src="edited-photo.png">
 ```
 This woman makes my heart beat faster than it should.
 The moment I see her, my heart begins to pound uncontrollably.
