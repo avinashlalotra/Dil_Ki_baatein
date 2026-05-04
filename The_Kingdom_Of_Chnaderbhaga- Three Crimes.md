@@ -2,18 +2,19 @@
 
 ```
 Once upon a time, in the northern lands of Bharat, on the banks of the river Chanderbhaga,
-there stood a magnificent kingdom. The king's palace was perched atop a mountain peak, 
+there stood a magnificent kingdom. The king's palace was situated at the top of a mountain peak, 
 so high and so fortified that every enemy attack crumbled to failure before it could even begin.
 ```
 
 ```
-The surroundings were breathtakingly beautiful — birds singing their morning songs,
+The surroundings were breathtakingly beautiful, a dense forest, and
 the sweet melody of the cuckoo drifting through the air.
 ```
 
 ```
 A vast blue sky, golden sunlight, towering mountains,
 cool gentle breezes — and the palace standing proud above it all.
+
 The nights were even more enchanting — a sky full of twinkling stars, 
 a grand full moon casting silver light across the valley,
 and the soft murmur of the river below.
@@ -30,9 +31,9 @@ The woman flatly denied every single accusation and
 declared the complainant to be nothing short of a Pagal.
 ```
 
-`Complainant`: "Your Majesty, this woman — with eyes like a doe and a smile that would make even the moon blush with shame — is a great thief. She has committed three crimes against me."
+`Complainant`: "Your Majesty, this woman — with eyes like a 'MrigNaini' and a smile that would make even the moon blush with shame — is a great thief. She has committed three crimes against me."
 
-`King`: "Hey, Lady, you are the very image of beauty, utterly captivating — even the celestial nymphs would feel shame standing beside you. Why on earth would someone like you need to steal?"
+`King`: "Hey, Lady, you are the very image of beauty — even the Apsaras  of Indra would feel jealous standing beside you. Why on earth would someone like you need to steal?"
 
 `Woman`: "I beg your pardon, Your Majesty. I have stolen nothing. This complainant is simply a Pagal."
 
@@ -51,7 +52,7 @@ This woman makes my heart beat faster than it should.
 The moment I see her, my heart begins to pound uncontrollably.
 When she is not around, I cannot focus on anything at all.
 Once, she came with her hair styled in some peculiar,
-noodle-like way — like a delicacy too sweet to resist.
+noodle-like way — like a view from which I can't take my eyes.
 That day, my heart crossed 150 beats per minute.
 Because of all this, Your Majesty, I find it nearly impossible to hold a normal conversation with her..."
 ```
