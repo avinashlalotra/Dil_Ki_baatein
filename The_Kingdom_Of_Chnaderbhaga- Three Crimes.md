@@ -8,7 +8,7 @@ so high and so fortified that every enemy attack crumbled to failure before it c
 
 ```
 The surroundings were breathtakingly beautiful, a dense forest, and
-the sweet melody of the cuckoo drifting through the air.
+the sweet melody of the 'Koyal' drifting through the air.
 ```
 
 ```
