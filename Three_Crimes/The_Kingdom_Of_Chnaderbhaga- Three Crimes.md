@@ -70,9 +70,8 @@ Because of all this, Your Majesty, I find it nearly impossible to hold a normal 
 
 `Complainant`:
 ```
-  My dear King, this woman is a threat to your kingdom too.
-  One day, she was wearing leggings and a frock.
-  You won't believe, Your Highness, that sight made me faint.
+  My dear King, this woman is a threat to your kingdom, too.
+  One day, she looked like a princess.  You won't believe, Your Highness, that sight made me faint.
 
   Even the prince of the neighbouring kingdom would be stunned by the sight.
   Your Highness, I was wondering if they came to know about her,
