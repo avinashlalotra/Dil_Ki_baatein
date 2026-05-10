@@ -33,7 +33,7 @@ declared the complainant to be nothing short of a Pagal.
 
 `Complainant`: "Your Majesty, this woman — with eyes like a 'MrigNaini' and a smile that would make even the moon blush with shame — is a great thief. She has committed three crimes against me."
 
-`King`: "Hey, Lady, you are the very image of beauty — even the Apsaras  of Indra would feel jealous standing beside you. Why on earth would someone like you need to steal?"
+`King`: "Hey, Lady, you are the very image of beauty — even the Apsaras of Indra would feel jealous standing beside you. Why on earth would someone like you need to steal?"
 
 `Woman`: "I beg your pardon, Your Majesty. I have stolen nothing. This complainant is simply a Pagal."
 
@@ -59,3 +59,62 @@ Because of all this, Your Majesty, I find it nearly impossible to hold a normal 
 
 (A deep silence fell over the royal court. Even the king began to wonder if the complainant had indeed lost his mind.)
 (The woman seems to be blushing but hides it from the royal court...)
+
+
+## Crime 2
+
+`King` : (Laughing) What's the second crime?
+
+
+<img src="crime2.jpeg">
+
+`Complainant`:
+```
+  My dear King, this woman is a threat to your kingdom too.
+  One day, she was wearing leggings and a frock.
+  You won't believe, Your Highness, that sight made me faint.
+
+  Even the prince of the neighbouring kingdom would be stunned by the sight.
+  Your Highness, I was wondering if they came to know about her,
+  then the Prince would call off the marriage with your Princess and even start
+  a war to win her heart...
+  
+```
+
+(The king is shocked but keeps his composure and asks the woman what she has to say...)
+(The woman's cheeks were red , she was silent but her eyes said it all...)
+
+`King` : (Angry) How dare you make such a comment about the Princess..? I will have you beheaded for this...!
+
+`One of the ministers` : ( In low voice to the King ) Your highness, please calm down. This man is definitely has lost his mind.
+                          Please show mercy on him. 
+                          (The King calms down and asks the complainant to present his 
+                          third crime) ...
+
+
+
+## Crime 3
+
+`Complainant`: 
+
+```
+Your Highness... this woman... this woman... she is a thief!
+
+I think she has no heart,
+she is moving around the kingdom stealing many hearts...
+And I am one of the victims of her magnificent eyes and breathtaking smile.
+
+I request your Highness to punish her ...!
+```
+
+
+
+(The whole court started laughing ..., even the king couldn't control his laughter ...)
+
+
+## Judgement
+
+```
+To be continued... 
+
+```
