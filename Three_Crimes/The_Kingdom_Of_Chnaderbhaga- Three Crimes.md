@@ -71,26 +71,23 @@ Because of all this, Your Majesty, I find it nearly impossible to hold a normal 
 `Complainant`:
 ```
   My dear King, this woman is a threat to your kingdom, too.
-  One day, she looked like a princess.  You won't believe, Your Highness, that sight made me faint.
+  One day, I was walking, and suddenly I saw her, my body moved forward (Thanks to Newton),
+  But Your Highness, my soul stopped there,
 
-  Even the prince of the neighbouring kingdom would be stunned by the sight.
-  Your Highness, I was wondering if they came to know about her,
-  then the Prince would call off the marriage with your Princess and even start
-  a war to win her heart...
+""
+ I saw my body moving forward, towards the 8th wonder,
+ passing by her makes my heart thunder
+
+ Her appearance in my life is surprising
+ Your highness, I saw my moon rising
+ 
+ Her presence makes me lose my senses,
+ She is a  competitor to the Princess
+ 
+""  
+  
   
 ```
-
-(The king is shocked but keeps his composure and asks the woman what she has to say...)
-(The woman's cheeks were red , she was silent but her eyes said it all...)
-
-`King` : (Angry) How dare you make such a comment about the Princess..? I will have you beheaded for this...!
-
-`One of the ministers` : ( In low voice to the King ) Your highness, please calm down. This man is definitely has lost his mind.
-                          Please show mercy on him. 
-                          (The King calms down and asks the complainant to present his 
-                          third crime) ...
-
-
 
 ## Crime 3
 
