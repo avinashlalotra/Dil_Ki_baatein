@@ -64,7 +64,7 @@ Because of all this, Your Majesty, I find it nearly impossible to hold a normal 
 ```
 When the king was young, His friend was deeply in love with a minister's daughter.
 The lady was 2 yeras elder then him and they found that the lady wanted  someone older than her.
-So they spent nights making a list of potential matches and threatened them  all to stay away from the lady.ids
+So they spent nights making a list of potential matches and threatened them  all to stay away from the lady.
 Now his friend is married to the same lady with a dozen of lovely kids.
 ```
 
