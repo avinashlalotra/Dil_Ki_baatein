@@ -31,17 +31,17 @@ The woman flatly denied every single accusation and
 declared the complainant to be nothing short of a Pagal.
 ```
 
-`Complainant`: "Your Majesty, this woman — with eyes like a 'MrigNaini' and a smile that would make even the moon blush with shame — is a great thief. She has committed three crimes against me."
+`Complainant`: "Your Majesty, this woman has been torturing me for a while.!!"
 
-`King`: "Hey, Lady, you are the very image of beauty — even the Apsaras of Indra would feel jealous standing beside you. Why on earth would someone like you need to steal?"
+`King`: "Lady, why are you bothering this poor man ?"
 
-`Woman`: "I beg your pardon, Your Majesty. I have stolen nothing. This complainant is simply a Pagal."
+`Woman`: "I beg your pardon, Your Majesty. I haven't done anything, and I hardly know him from the past 5 months."
 
-`Complainant`: "Your Majesty, not only has she stolen, but she has tormented me greatly. I humbly request that you award her the harshest punishment possible."
+`Complainant`: "Your Majesty, I thought she was a thief only, but now I can see a liar too ."
 
-`King`: "Young woman, what exactly have you done?"
+`King`: " What she done to you ?"
 
-`Woman`: "Forgive me, Your Majesty. I have done nothing of the sort. This man is completely Pagal."
+`Woman`: "Forgive me, Your Majesty. But I have done nothing, and this man.. He is completely Pagal."
 
 `King`: (growing impatient) "Complainant! Speak clearly — what exactly is this woman's crime?"
 
@@ -100,7 +100,7 @@ I think she has no heart,
 she is moving around the kingdom stealing many hearts...
 And I am one of the victims of her magnificent eyes and breathtaking smile.
 
-I request your Highness to punish her ...!
+I request Your Highness to punish her...!
 ```
 
 
